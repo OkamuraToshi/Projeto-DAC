@@ -1,0 +1,7 @@
+﻿EB101,Calculo I,6
+EB102,Geometria Analitica e Algebra linear,6
+SI010,Estrutura de Dados II,4
+SI100,Algoritmos e programacao de computadores I,4
+SI202,Resolucao de problemas I,4
+SI401,Programacao para a Web,4
+SI700,Programacao para dispositivos moveis,4

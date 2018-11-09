@@ -1,0 +1,31 @@
+﻿EB101,Cálculo I,6
+EB102,Geometria Analític e Álgebra Linear,6
+SI010,Estrutura de Dados II,4
+SI100,Algoritmos e Programação de Computadores I,4
+SI102,Seminários I,2
+SI200,Algoritmos e Programação de Computadores II,4
+SI201,Estrutura de Dados I,4
+SI202,Resolução de Problemas I,4
+SI300,Programação Orientada a Objetos I,4
+SI304,Engenharia de Software II,4
+SI305,Análise de Sistemas de Informação I,4
+SI400,Programação Orientada a Objetos II,4
+SI401,Programação para a Web,4
+SI404,Introdução a Interfaces Humano-Computador,2
+SI405,Análise de Sistemas de Informação II,4
+SI700,Programação para Dispositivos Móveis,4
+SI703,Governança e Planejamento Estratégico de TI,2
+SI704,Seminários II,2
+SI800,Empreendedorismo e Inovação,2
+ST008,Metodologia do Trabalho Científico,2
+ST096,Ciência, Tecnologia e Sociedade,2
+ST266,Engenharia de Software I,2
+ST562,Estruturas de Arquivos,4
+ST567,Banco de Dados I,4
+ST568,Redes de Comunicação I,4
+ST765,Computação Gráfica,4
+ST767,Banco de Dados II,4
+TT060,Gestão de Projetos,4
+TT106,Organização e Arquitetura de Computadores,4
+TT304,Sistemas Operacionais,4
+TT350,Administração de Empresas,4
